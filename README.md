@@ -1,6 +1,6 @@
 <h1>Hi, This is Vannessa with 2 n's! 🚀</h1>
 <p>
-  <a href="https://github.com/your-github-username">Data Analyst</a> | 
+  <a href="https://github.com/vanniee">Data Analyst</a> | 
     <a href="https://www.linkedin.com/in/your-linkedin-profile">Project Coordinator</a> | 
   <a href="https://www.linkedin.com/in/your-linkedin-profile">Communications Expert</a> 
 </p>
