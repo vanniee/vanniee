@@ -10,7 +10,7 @@
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
 - **Power BI**
-  - [Supplier Quality and Performance](https://github.com/your-github-username/your-project-link)
+  - [Supplier Quality and Performance](https://github.com/vanniee/SupplierQualityPerformance)
   - [Money Matters: A Financial Overview](https://github.com/your-github-username/your-project-link)
   - [HR Insights Hub](https://github.com/vanniee/HrDashboard) 
     
