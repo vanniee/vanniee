@@ -12,7 +12,7 @@
 - **Power BI**
   - [Supplier Quality and Performance](https://github.com/your-github-username/your-project-link)
   - [Money Matters: A Financial Overview](https://github.com/your-github-username/your-project-link)
-  - [HR Insights Hub](https://github.com/your-github-username/your-project-link)
+  - [HR Insights Hub](https://github.com/vanniee/HrDashboard) 
     
 - **Excel Dashboards**
   - [My Excel Dashboard](https://github.com/your-github-username/your-project-link)
