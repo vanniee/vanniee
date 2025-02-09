@@ -27,7 +27,7 @@
 <h2>Certification:</h2>
 
 - **Data Visualization**
-  - [Empowering Business with Effective Insights](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ifobHAoMjQs9s6bKS/MyXvBcppsW2FkNYCX_ifobHAoMjQs9s6bKS_Cg3ms35XfskbeaoJm_1736356334131_completion_certificate.pdf))
+  - [Empowering Business with Effective Insights](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ifobHAoMjQs9s6bKS/MyXvBcppsW2FkNYCX_ifobHAoMjQs9s6bKS_Cg3ms35XfskbeaoJm_1736356334131_completion_certificate.pdf)
 
 
 
