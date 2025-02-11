@@ -11,7 +11,7 @@
 
 - **Power BI**
   - [Supplier Quality and Performance](https://github.com/vanniee/SupplierQualityPerformance)
-  - [Money Matters: A Financial Overview](https://github.com/your-github-username/your-project-link)
+  - [Money Matters: A Financial Overview](https://github.com/vanniee/Financial-Dashboard/blob/main/README.md)  
   - [HR Insights Hub](https://github.com/vanniee/HrDashboard) 
     
 - **Excel Dashboards**
